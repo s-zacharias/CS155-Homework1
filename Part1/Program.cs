@@ -45,6 +45,7 @@ namespace Part1
             // print a message along with the sum of the two numbers
             Console.WriteLine("The sum of those two numbers is");
             Console.WriteLine(sum);
+            Console.WriteLine("Thank you for using my application.");
 
             //Just to pause the screen.
             Console.ReadLine();

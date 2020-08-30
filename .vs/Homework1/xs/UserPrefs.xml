@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EC82F49F-7974-4143-9902-F96D0D96896D}|Default">
   <MonoDevelop.Ide.ItemProperties.Part1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Part2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Part2/Program.cs">
     <Files>
       <File FileName="Part1/Program.cs" Line="2" Column="33" />
       <File FileName="Part2/Program.cs" Line="19" Column="62" />
@@ -9,9 +9,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Homework1" expanded="True" selected="True">
+          <Node name="Homework1" expanded="True">
             <Node name="Part1" expanded="True" />
-            <Node name="Part2" expanded="True" />
+            <Node name="Part2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
