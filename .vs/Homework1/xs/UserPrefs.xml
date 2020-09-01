@@ -1,24 +1,21 @@
-﻿<Properties StartupConfiguration="{EC82F49F-7974-4143-9902-F96D0D96896D}|Default">
+﻿<Properties StartupConfiguration="{47E444AC-7DA5-4BBC-A41D-C703CB9D31A4}|Default">
   <MonoDevelop.Ide.ItemProperties.Part1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Part2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Part2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Part1/Program.cs">
     <Files>
-      <File FileName="Part1/Program.cs" Line="2" Column="33" />
-      <File FileName="Part2/Program.cs" Line="19" Column="62" />
+      <File FileName="Part1/Program.cs" Line="1" Column="1" />
+      <File FileName="Part2/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Homework1" expanded="True">
-            <Node name="Part1" expanded="True" />
-            <Node name="Part2" expanded="True">
+            <Node name="Part1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Part2" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
